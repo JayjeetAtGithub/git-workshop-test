@@ -8,3 +8,5 @@ int main()
     cout << "Addition : " << a + b << endl;
     cout << "Multiplication: "<< a*b << endl;
 }
+
+// lol code
